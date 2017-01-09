@@ -1,6 +1,6 @@
 {
   "name": "html-decoder-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Decodes html thought the command line",
   "main": "index.js",
   "author": "Emil Johansson <emiljohansson.se@gmail.com>",
